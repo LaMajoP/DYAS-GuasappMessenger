@@ -26,3 +26,8 @@ Para ejecutar la aplicación:
 ```bash
 mvn exec:java  -Dexec.mainClass=edu.unisabana.dyas.patterns.GuasappProgramLauncher
 ```
+
+#Integrantes
+- Carlos Andres Diaz.
+- Manuel David Carreño.
+- Maria Jose Palomino.
